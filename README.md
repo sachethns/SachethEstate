@@ -35,14 +35,14 @@ SachethEstate is a real estate platform built using the MERN stack, designed to 
    npm install
 
 3. Start the Backend:
-   ```bash
    Navigate to the `backend` directory and run the following command to start the backend server:
+   ```bash
    cd backend
    npm start
 
 4. Start the Frontend:
-   ```bash
    Navigate to the `frontend` directory and run the following command to start the frontend server:
+   ```bash
    cd frontend
    npm start
 
